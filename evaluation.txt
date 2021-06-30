@@ -1,0 +1,78 @@
+7 participants evaluated the tool on a survey after using the program.
+All of the participants have newly graduated from an English-medium university and have an advanced level of English.
+They were asked to write some text in a field/genre they generally write in.
+The questions and the scores that participants gave are given below.
+The mean scores are also given for each question. 
+
+
+
+Q1: For what purpose did you use the Autocomplete Tool? (e.g. for academic writing)
+
+Participant#1:		Free writing
+Participant#2:		Academic writing
+Participant#3:		Writing for my blog
+Participant#4:		Writing essay
+Participant#5:		Writing a blog
+Participant#6:		I used this program for my daily routins
+Participant#7:		Writing an email
+
+
+
+Q2: To what extent did the tool predict the current word correctly when the current word is not a common word (such as the, a/an, to, was, were)?
+
+			Not at all	1	2	3	4	5	6	7	8	9	10	To a great extent
+			
+Participant#1:				⚪	⚪	⚪	⚪	⚪	⚪	⚪	⚫	⚪	⚪
+Participant#2: 				⚪	⚪	⚪	⚪	⚪	⚪	⚪	⚫	⚪	⚪
+Participant#3:				⚪	⚪	⚪	⚪	⚪	⚪	⚫	⚪	⚪	⚪
+Participant#4:				⚪	⚪	⚪	⚪	⚫	⚪	⚪	⚪	⚪	⚪
+Participant#5:				⚪	⚪	⚪	⚪	⚪	⚫	⚪	⚪	⚪	⚪
+Participant#6:				⚪	⚪	⚪	⚪	⚪	⚪	⚫	⚪	⚪	⚪
+Participant#7:				⚪	⚪	⚪	⚪	⚪	⚪	⚫	⚪	⚪	⚪
+
+
+Q3:	To what extent did the tool predict the next word correctly when the next word is not a common word (such as the, a/an, to, was, were)?
+
+			Not at all	1	2	3	4	5	6	7	8	9	10	To a great extent
+			
+Participant#1:				⚪	⚪	⚪	⚪	⚫	⚪	⚪	⚪	⚪	⚪
+Participant#2: 				⚪	⚪	⚪	⚪	⚪	⚪	⚪	⚫	⚪	⚪
+Participant#3:				⚪	⚪	⚪	⚪	⚪	⚪	⚫	⚪	⚪	⚪
+Participant#4:				⚪	⚪	⚪	⚪	⚪	⚪	⚫	⚪	⚪	⚪
+Participant#5:				⚪	⚪	⚪	⚪	⚪	⚪	⚪	⚪	⚫	⚪
+Participant#6:				⚪	⚪	⚪	⚪	⚫	⚪	⚪	⚪	⚪	⚪
+Participant#7:				⚪	⚪	⚪	⚫	⚪	⚪	⚪	⚪	⚪	⚪
+
+
+Q4:	To what extent did the tool increase your speed of writing?
+
+			Not at all	1	2	3	4	5	6	7	8	9	10	To a great extent
+			
+Participant#1:				⚪	⚪	⚪	⚪	⚪	⚪	⚫	⚪	⚪	⚪
+Participant#2: 				⚫	⚪	⚪	⚪	⚪	⚪	⚪	⚪	⚪	⚪
+Participant#3:				⚪	⚪	⚪	⚪	⚫	⚪	⚪	⚪	⚪	⚪
+Participant#4:				⚪	⚪	⚪	⚪	⚪	⚪	⚪	⚫	⚪	⚪
+Participant#5:				⚪	⚪	⚪	⚪	⚪	⚫	⚪	⚪	⚪	⚪
+Participant#6:				⚪	⚪	⚪	⚪	⚫	⚪	⚪	⚪	⚪	⚪
+Participant#7:				⚪	⚪	⚪	⚪	⚪	⚪	⚫	⚪	⚪	⚪
+
+
+Q5:	Can you score your overall experience?
+
+			Worst	1	2	3	4	5	6	7	8	9	10	Best
+			
+Participant#1:				⚪	⚪	⚪	⚪	⚪	⚪	⚫	⚪	⚪	⚪
+Participant#2: 				⚪	⚪	⚪	⚪	⚪	⚫	⚪	⚪	⚪	⚪
+Participant#3:				⚪	⚪	⚪	⚪	⚪	⚪	⚪	⚫	⚪	⚪
+Participant#4:				⚪	⚪	⚪	⚪	⚪	⚪	⚫	⚪	⚪	⚪
+Participant#5:				⚪	⚪	⚪	⚪	⚪	⚪	⚫	⚪	⚪	⚪
+Participant#6:				⚪	⚪	⚪	⚪	⚪	⚫	⚪	⚪	⚪	⚪
+Participant#7:				⚪	⚪	⚪	⚪	⚪	⚪	⚫	⚪	⚪	⚪
+
+
+
+Mean Scores:
+Q2:	6.85
+Q3:	6.42
+Q4:	5.57
+Q5:	6.85
